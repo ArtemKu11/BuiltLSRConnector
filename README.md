@@ -1,4 +1,4 @@
-1. git clone
+1. git clone https://github.com/ArtemKu11/BuiltLSRConnector.git
 
 
 В консоли:
